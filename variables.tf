@@ -10,7 +10,7 @@ variable "bucket" {
 
 variable "project_name" {
   description = "Name of project"
-  default     = "estudos"
+  default     = "estudo"
 }
 
 variable "ami_owner" {
