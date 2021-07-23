@@ -1,0 +1,19 @@
+[2021-07-21 05:38:11.387] [sharedprocess] [info] Installing extension: hashicorp.terraform
+[2021-07-21 05:38:11.389] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-07-21 05:38:11.390] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-07-21 05:38:12.300] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker undefined
+[2021-07-21 05:38:12.390] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-07-21 05:38:12.562] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.1327f6a1-beb4-453c-aba8-38b4bf5a925f: ms-azuretools.vscode-docker
+[2021-07-21 05:38:12.582] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-1.15.0
+[2021-07-21 05:38:12.601] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-07-21 05:38:12.673] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-07-21 05:38:13.351] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.11a868a8-e1d5-48f6-a8ef-c7761c928f37: ms-vscode-remote.remote-containers
+[2021-07-21 05:38:13.609] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.166.1
+[2021-07-21 05:38:13.711] [sharedprocess] [info] Downloaded extension: hashicorp.terraform undefined
+[2021-07-21 05:38:13.902] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-07-21 05:38:13.964] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2021-07-21 05:38:15.676] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.edecbfc2-b585-46f0-b136-6aaad8b459dc: hashicorp.terraform
+[2021-07-21 05:38:15.684] [sharedprocess] [info] Renamed to /root/.vscode/extensions/hashicorp.terraform-2.13.2
+[2021-07-21 05:38:15.687] [sharedprocess] [info] Installation completed. hashicorp.terraform
+[2021-07-21 05:38:15.700] [sharedprocess] [info] Extensions installed successfully: hashicorp.terraform
+[2021-07-21 05:38:48.940] [sharedprocess] [info] Starting to clean up unused language packs.
