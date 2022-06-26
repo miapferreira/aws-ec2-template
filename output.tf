@@ -1,3 +1,3 @@
 output "ip_address" {
-  value = aws_instance.estudos.public_ip
+  value = aws_instance.k8s[*].public_ip
 }
