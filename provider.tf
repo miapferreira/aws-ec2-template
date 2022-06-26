@@ -6,7 +6,6 @@ terraform {
   backend "s3" {
     bucket  = "nome do bucket"
     key     = "nome.tfstate"
-    region  = "us-east-1"
+    region  = "sua-region"
     encrypt = true
   }
-}
